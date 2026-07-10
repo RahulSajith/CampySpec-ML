@@ -1,0 +1,2 @@
+model,test_accuracy,test_auc,mean_uncertainty,std_uncertainty,n_parameters,dropout_rate,mc_samples,epochs,best_epoch,dataset,n_samples,n_train,n_test
+CampyCNN,1.0,1.0,0.04493182897567749,0.003691724268719554,1691650,0.3,100,150,1,"Synthetic Campylobacter Spectra (400-700nm, 400 features)",100,80,20
